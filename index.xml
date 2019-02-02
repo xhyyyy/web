@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://xhyyyy.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Feb 2019 15:49:20 +0800</lastBuildDate>
+    
+	<atom:link href="http://xhyyyy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>http://xhyyyy.github.io/post/first/</link>
+      <pubDate>Sat, 02 Feb 2019 15:49:20 +0800</pubDate>
+      
+      <guid>http://xhyyyy.github.io/post/first/</guid>
+      <description>post的东西</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://xhyyyy.github.io/about/</link>
+      <pubDate>Sat, 02 Feb 2019 11:31:49 +0800</pubDate>
+      
+      <guid>http://xhyyyy.github.io/about/</guid>
+      <description>about的正文</description>
+    </item>
+    
+  </channel>
+</rss>
